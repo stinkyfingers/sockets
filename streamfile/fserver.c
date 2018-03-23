@@ -8,7 +8,7 @@
 #include <arpa/inet.h>
 #include <sys/un.h>
 
-char *socket_path = "/tmp/fast.sock";
+char *socket_path = "/tmp/test.sock";
 
 
 int main(int argc, char *argv[]) {
